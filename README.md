@@ -37,14 +37,23 @@ For this project, data was sourced from diverse Excel files and amalgamated in t
 These metrics are critical for various analyses in hospitality and revenue management. Here are some brief descriptions of each:
 
 Revenue: Total income generated from sales of goods or services.
+
 RevPAR (Revenue per Available Room): Total room revenue divided by the number of available rooms.
+
 ADR (Average Daily Rate): Average income per occupied room in a given period.
+
 DBRN (Day Before Revenue): Revenue generated from bookings made a day before.
+
 DSRN (Day Same Revenue): Revenue generated from bookings made on the same day.
+
 DURN (Day Until Revenue): Revenue expected from bookings until a specified future date.
+
 Realization %: Percentage of potential revenue that is actually realized.
+
 Occupancy %: Percentage of available rooms that are occupied.
+
 Cancellation %: Percentage of bookings that are canceled.
+
 No Show %: Percentage of bookings where the guest did not show up without canceling.
 
 
